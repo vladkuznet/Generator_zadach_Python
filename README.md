@@ -1,0 +1,2 @@
+# Generator_zadach_Python
+Generator_zadach_Python
